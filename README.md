@@ -4,8 +4,8 @@
 
 - Python
 
--Token Classification
+- Token Classification
 
--Text Generation
+- Text Generation
 
--Text Generation Multimodal Models
+- Text Generation Multimodal Models
